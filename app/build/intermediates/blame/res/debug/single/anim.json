@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "C:\\Users\\kurs.SYSTEMPRO\\Projectalpha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\kurs.SYSTEMPRO\\.android\\build-cache\\bac29ecc6ce4dfdbc0bc74b5d34776ea7a925deb\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\kurs.SYSTEMPRO\\Projectalpha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\kurs.SYSTEMPRO\\.android\\build-cache\\bac29ecc6ce4dfdbc0bc74b5d34776ea7a925deb\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\kurs.SYSTEMPRO\\Projectalpha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\kurs.SYSTEMPRO\\.android\\build-cache\\bac29ecc6ce4dfdbc0bc74b5d34776ea7a925deb\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\kurs.SYSTEMPRO\\AndroidStudioProjects\\Projectalpha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\kurs.SYSTEMPRO\\.android\\build-cache\\0914b8b8e7ef5e406882d54245c195aef99645e7\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\kurs.SYSTEMPRO\\Projectalpha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\kurs.SYSTEMPRO\\.android\\build-cache\\bac29ecc6ce4dfdbc0bc74b5d34776ea7a925deb\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\kurs.SYSTEMPRO\\Projectalpha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\kurs.SYSTEMPRO\\.android\\build-cache\\f46312ee564478a4607cf37750869f10a4134c46\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\kurs.SYSTEMPRO\\AndroidStudioProjects\\Projectalpha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\kurs.SYSTEMPRO\\.android\\build-cache\\0914b8b8e7ef5e406882d54245c195aef99645e7\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\kurs.SYSTEMPRO\\AndroidStudioProjects\\Projectalpha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\kurs.SYSTEMPRO\\.android\\build-cache\\0914b8b8e7ef5e406882d54245c195aef99645e7\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\kurs.SYSTEMPRO\\Projectalpha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\kurs.SYSTEMPRO\\.android\\build-cache\\bac29ecc6ce4dfdbc0bc74b5d34776ea7a925deb\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\kurs.SYSTEMPRO\\Projectalpha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\kurs.SYSTEMPRO\\.android\\build-cache\\bac29ecc6ce4dfdbc0bc74b5d34776ea7a925deb\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\kurs.SYSTEMPRO\\Projectalpha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\kurs.SYSTEMPRO\\.android\\build-cache\\f46312ee564478a4607cf37750869f10a4134c46\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\kurs.SYSTEMPRO\\Projectalpha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\kurs.SYSTEMPRO\\.android\\build-cache\\f46312ee564478a4607cf37750869f10a4134c46\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\kurs.SYSTEMPRO\\AndroidStudioProjects\\Projectalpha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\kurs.SYSTEMPRO\\.android\\build-cache\\0914b8b8e7ef5e406882d54245c195aef99645e7\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\kurs.SYSTEMPRO\\Projectalpha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\kurs.SYSTEMPRO\\.android\\build-cache\\f46312ee564478a4607cf37750869f10a4134c46\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\kurs.SYSTEMPRO\\AndroidStudioProjects\\Projectalpha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\kurs.SYSTEMPRO\\.android\\build-cache\\0914b8b8e7ef5e406882d54245c195aef99645e7\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\kurs.SYSTEMPRO\\AndroidStudioProjects\\Projectalpha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\kurs.SYSTEMPRO\\.android\\build-cache\\71b8c4962912f777c817ddef7e9f67cc1a755ef6\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\kurs.SYSTEMPRO\\AndroidStudioProjects\\Projectalpha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\kurs.SYSTEMPRO\\.android\\build-cache\\71b8c4962912f777c817ddef7e9f67cc1a755ef6\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\kurs.SYSTEMPRO\\AndroidStudioProjects\\Projectalpha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\kurs.SYSTEMPRO\\.android\\build-cache\\0914b8b8e7ef5e406882d54245c195aef99645e7\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\kurs.SYSTEMPRO\\AndroidStudioProjects\\Projectalpha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\kurs.SYSTEMPRO\\.android\\build-cache\\71b8c4962912f777c817ddef7e9f67cc1a755ef6\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\kurs.SYSTEMPRO\\Projectalpha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\kurs.SYSTEMPRO\\.android\\build-cache\\bac29ecc6ce4dfdbc0bc74b5d34776ea7a925deb\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\kurs.SYSTEMPRO\\AndroidStudioProjects\\Projectalpha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\kurs.SYSTEMPRO\\.android\\build-cache\\0914b8b8e7ef5e406882d54245c195aef99645e7\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\kurs.SYSTEMPRO\\Projectalpha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\kurs.SYSTEMPRO\\.android\\build-cache\\bac29ecc6ce4dfdbc0bc74b5d34776ea7a925deb\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\kurs.SYSTEMPRO\\AndroidStudioProjects\\Projectalpha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\kurs.SYSTEMPRO\\.android\\build-cache\\0914b8b8e7ef5e406882d54245c195aef99645e7\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\kurs.SYSTEMPRO\\AndroidStudioProjects\\Projectalpha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\kurs.SYSTEMPRO\\.android\\build-cache\\0914b8b8e7ef5e406882d54245c195aef99645e7\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\kurs.SYSTEMPRO\\AndroidStudioProjects\\Projectalpha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\kurs.SYSTEMPRO\\.android\\build-cache\\0914b8b8e7ef5e406882d54245c195aef99645e7\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\kurs.SYSTEMPRO\\Projectalpha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\kurs.SYSTEMPRO\\.android\\build-cache\\bac29ecc6ce4dfdbc0bc74b5d34776ea7a925deb\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\kurs.SYSTEMPRO\\AndroidStudioProjects\\Projectalpha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\kurs.SYSTEMPRO\\.android\\build-cache\\71b8c4962912f777c817ddef7e9f67cc1a755ef6\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\kurs.SYSTEMPRO\\Projectalpha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\kurs.SYSTEMPRO\\.android\\build-cache\\bac29ecc6ce4dfdbc0bc74b5d34776ea7a925deb\\output\\res\\anim\\abc_popup_enter.xml"
+    }
+]
