@@ -52,8 +52,6 @@ public class clubActivity extends AppCompatActivity {
 
         }
 
-
-
     public int dpToPx(int dp) {
         DisplayMetrics displayMetrics =getResources().getDisplayMetrics();
         return Math.round(dp * (displayMetrics.xdpi / DisplayMetrics.DENSITY_DEFAULT));
