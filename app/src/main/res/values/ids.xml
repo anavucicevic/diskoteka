@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="llDate" type="id" />
+    <item name="ivEvent" type="id" />
+    <item name="tvEventTile" type="id" />
+    <item name="tvEventDescription" type="id" />
+    <item name="btnTables" type="id" />
+    <item name="btnTables2" type="id" />
+    <item name="btnTables3" type="id" />
+</resources>
